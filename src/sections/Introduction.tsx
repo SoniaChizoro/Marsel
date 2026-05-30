@@ -4,7 +4,7 @@ import { useScroll, useTransform } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
 import { twMerge } from "tailwind-merge";
 
-const text = `I'm Kamari Pope. A Developer based in
+const text = `I'm Marsel. A Developer based in
               Los Angeles, California. I have spent a while navigating the web landscape, engaging deeply with every technology that is critical to the app development process. I approach every project with a singular goal of absolute clarity, flexibility and `;
 const words = text.split(" ");
 
