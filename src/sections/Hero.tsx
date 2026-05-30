@@ -105,7 +105,7 @@ const Hero = () => {
                 </div>
                 <div className="flex justify-center">
                     <div className="inline-flex py-1 px-3 bg-gradient-to-r from-purple-400 to-pink-400 rounded-full text-neutral-950 font-semibold gap-2">
-                        <span>👋</span> {"  "}I&apos;m Greg. I specialize in
+                        <span>👋</span> {"  "}I&apos;m Marsel. I specialize in
                     </div>
                 </div>
                 <h1 className="text-5xl md:text-7xl lg:text-[90px] tracking-tight font-medium text-center mt-2 md:mt-0 p-2 md:p-0 md:pb-2 text-transparent gradient-text relative z-10">
